@@ -1,7 +1,7 @@
 {
-  "name": "ticketsapi",
+  "name": "tickets-api",
   "version": "0.4.0",
-  "description": "it's an api that returns informations about a movie and if it on the cinemas",
+  "description": "it's an api that returns informations if movie it's on theaters",
   "dependencies": {
     "body-parser": "^1.17.2",
     "cheerio": "^0.22.0",
