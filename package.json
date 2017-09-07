@@ -13,6 +13,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "node app.js",
+    "debug": "nodemon --inspect app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sylas Eckart",
@@ -22,6 +23,6 @@
     "movie"
   ],
   "engines": {
-    "node": "8.0.0"
+    "node": "7.8.0"
   }
 }

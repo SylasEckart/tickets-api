@@ -1,0 +1,1 @@
+This empty directory will contain all json movieTheater files.
